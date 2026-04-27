@@ -185,20 +185,23 @@ class Orchestrator:
 
     def _ask_claude(self, symbol: str, signal: dict) -> str:
         """Ask Claude for a brief second opinion on a borderline signal."""
+        confidence = signal.get('confidence', 0)
+        if not (0.55 < confidence < 0.80):
+            return f"Confidence ({confidence:.0%}) outside AI evaluation threshold."
+
         try:
             prompt = (
-                f"You are a concise trading assistant. Analyse this signal for {symbol}:\n"
-                f"  Price: ${signal.get('price',0):.2f}\n"
-                f"  RSI:   {signal.get('rsi',50):.1f}\n"
-                f"  MACD:  {signal.get('macd',0):.5f}\n"
-                f"  Trend: {signal.get('trend','neutral')}\n"
-                f"  Action suggested: {signal.get('action','HOLD')}\n"
-                f"  Confidence: {signal.get('confidence',0):.0%}\n\n"
-                f"In 1-2 sentences, should a beginner trader proceed or wait? Be direct."
+                f"Analyse this signal for {symbol}:\n"
+                f"Price: ${signal.get('price',0):.2f}\n"
+                f"RSI: {signal.get('rsi',50):.1f}\n"
+                f"MACD: {signal.get('macd',0):.5f}\n"
+                f"Trend: {signal.get('trend','neutral')}\n"
+                f"Action suggested: {signal.get('action','HOLD')}\n"
+                f"Give 1 sentence of beginner advice:"
             )
             resp = self.claude.messages.create(
-                model="claude-sonnet-4-20250514",
-                max_tokens=120,
+                model="claude-3-haiku-20240307",
+                max_tokens=50,
                 messages=[{"role": "user", "content": prompt}],
             )
             return resp.content[0].text.strip()
