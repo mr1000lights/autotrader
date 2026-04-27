@@ -105,7 +105,7 @@ class Orchestrator:
 
             # ── 2b. Claude second opinion for borderline signals ───────────────
             sig_conf = sig.get("confidence", 1.0)
-            if (decision.approved and sig_conf < AI_CONFIDENCE_THRESHOLD and self.claude):
+            if (decision.approved and 0.40 <= sig_conf < AI_CONFIDENCE_THRESHOLD and self.claude):
                 ai_view = self._ask_claude(sym, sig)
                 log.info(f"  🤖 Claude says ({sym}): {ai_view}")
                 self.logger_agent.log_event("OrchestratorAI", "INFO", sym, f"Claude: {ai_view}")

@@ -89,6 +89,7 @@ class MarketAgent:
             start=start.strftime("%Y-%m-%dT%H:%M:%SZ"),
             end=end.strftime("%Y-%m-%dT%H:%M:%SZ"),
             adjustment="raw",
+            feed='iex'
         ).df
         if bars.empty:
             raise ValueError(f"No bars returned for {symbol}.")
