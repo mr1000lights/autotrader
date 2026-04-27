@@ -1,0 +1,280 @@
+2026-04-27 11:08:04 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:08:04 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:08:04 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:08:04 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:08:04 | INFO     | RiskAgent | ⚠️  SPY: Confidence 0.30 < threshold 0.55 — skipping.
+2026-04-27 11:08:04 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:08:04 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:08:04 | INFO     | RiskAgent | ✅ APPROVED BUY 2x SPY @ $50.00 | SL=$48.5 TP=$53.0 | risk=$3.00
+2026-04-27 11:08:04 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:08:04 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:08:04 | INFO     | RiskAgent | ⚠️  NEW: Max open positions (5) reached — cannot add NEW.
+2026-04-27 11:08:04 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:08:04 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:08:04 | WARNING  | RiskAgent | 🛑 SPY: Daily loss limit hit: $25.00 ≥ $20.00 (2.0% of capital). All trading halted for today.
+2026-04-27 11:08:04 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:08:04 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:08:04 | INFO     | RiskAgent | ✅ APPROVED BUY 1x SPY @ $100.00 | SL=$97.0 TP=$106.0 | risk=$3.00
+2026-04-27 11:08:04 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:08:04 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:08:04 | INFO     | RiskAgent | ⚠️  SPY: Already holding SPY — no pyramid buying.
+2026-04-27 11:08:04 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:08:04 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:08:04 | INFO     | RiskAgent | ✅ APPROVED BUY 2x SPY @ $50.00 | SL=$48.5 TP=$53.0 | risk=$3.00
+2026-04-27 11:08:04 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:08:04 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:08:04 | INFO     | RiskAgent | ⚠️  SPY: No open position in SPY to sell.
+2026-04-27 11:08:04 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:08:04 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:08:04 | INFO     | RiskAgent | ✅ APPROVED BUY 2x SPY @ $50.00 | SL=$48.5 TP=$53.0 | risk=$3.00
+2026-04-27 11:08:04 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:08:04 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:08:04 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:08:04 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:08:04 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:08:04 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:08:04 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:08:04 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:08:04 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:08:04 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:08:04 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:08:04 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:08:04 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:08:04 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:08:04 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:08:04 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:08:04 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:08:04 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:08:04 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:08:04 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:08:04 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:08:04 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:20:03 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:20:03 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:20:03 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:20:03 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:20:03 | INFO     | RiskAgent | ⚠️  SPY: Confidence 0.30 < threshold 0.55 — skipping.
+2026-04-27 11:20:03 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:20:03 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:20:03 | INFO     | RiskAgent | ✅ APPROVED BUY 2x SPY @ $50.00 | SL=$48.5 TP=$53.0 | risk=$3.00
+2026-04-27 11:20:03 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:20:03 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:20:03 | INFO     | RiskAgent | ⚠️  NEW: Max open positions (5) reached — cannot add NEW.
+2026-04-27 11:20:03 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:20:03 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:20:03 | WARNING  | RiskAgent | 🛑 SPY: Daily loss limit hit: $25.00 ≥ $20.00 (2.0% of capital). All trading halted for today.
+2026-04-27 11:20:03 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:20:03 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:20:03 | INFO     | RiskAgent | ✅ APPROVED BUY 1x SPY @ $100.00 | SL=$97.0 TP=$106.0 | risk=$3.00
+2026-04-27 11:20:03 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:20:03 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:20:03 | INFO     | RiskAgent | ⚠️  SPY: Already holding SPY — no pyramid buying.
+2026-04-27 11:20:03 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:20:03 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:20:03 | INFO     | RiskAgent | ✅ APPROVED BUY 2x SPY @ $50.00 | SL=$48.5 TP=$53.0 | risk=$3.00
+2026-04-27 11:20:03 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:20:03 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:20:03 | INFO     | RiskAgent | ⚠️  SPY: No open position in SPY to sell.
+2026-04-27 11:20:03 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:20:03 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:20:03 | INFO     | RiskAgent | ✅ APPROVED BUY 2x SPY @ $50.00 | SL=$48.5 TP=$53.0 | risk=$3.00
+2026-04-27 11:20:03 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:20:03 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:20:03 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:20:03 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:20:03 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:20:03 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:20:03 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:20:03 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:20:03 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:20:03 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:20:03 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:20:03 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:20:03 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:20:03 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:20:03 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:20:03 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:20:03 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:20:03 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:20:03 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:20:03 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:20:03 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:20:03 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:24:20 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:24:20 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:24:20 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:24:20 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:24:20 | INFO     | RiskAgent | ⚠️  SPY: Confidence 0.30 < threshold 0.55 — skipping.
+2026-04-27 11:24:20 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:24:20 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:24:20 | INFO     | RiskAgent | ✅ APPROVED BUY 2x SPY @ $50.00 | SL=$48.5 TP=$53.0 | risk=$3.00
+2026-04-27 11:24:20 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:24:20 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:24:20 | INFO     | RiskAgent | ⚠️  NEW: Max open positions (5) reached — cannot add NEW.
+2026-04-27 11:24:20 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:24:20 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:24:20 | WARNING  | RiskAgent | 🛑 SPY: Daily loss limit hit: $25.00 ≥ $20.00 (2.0% of capital). All trading halted for today.
+2026-04-27 11:24:20 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:24:20 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:24:20 | INFO     | RiskAgent | ✅ APPROVED BUY 1x SPY @ $100.00 | SL=$97.0 TP=$106.0 | risk=$3.00
+2026-04-27 11:24:20 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:24:20 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:24:20 | INFO     | RiskAgent | ⚠️  SPY: Already holding SPY — no pyramid buying.
+2026-04-27 11:24:20 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:24:20 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:24:20 | INFO     | RiskAgent | ✅ APPROVED BUY 2x SPY @ $50.00 | SL=$48.5 TP=$53.0 | risk=$3.00
+2026-04-27 11:24:20 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:24:20 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:24:20 | INFO     | RiskAgent | ⚠️  SPY: No open position in SPY to sell.
+2026-04-27 11:24:20 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:24:20 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:24:20 | INFO     | RiskAgent | ✅ APPROVED BUY 2x SPY @ $50.00 | SL=$48.5 TP=$53.0 | risk=$3.00
+2026-04-27 11:24:20 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:24:20 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:24:20 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:24:20 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:24:20 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:24:20 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:24:20 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:24:20 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:24:20 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:24:20 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:24:20 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:24:20 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:24:20 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:24:20 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:24:20 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:24:20 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:24:20 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:24:20 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:24:20 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:24:20 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:24:20 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:24:20 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:33:10 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:33:10 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:33:10 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:33:10 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:33:10 | INFO     | RiskAgent | ⚠️  SPY: Confidence 0.30 < threshold 0.55 — skipping.
+2026-04-27 11:33:10 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:33:10 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:33:10 | INFO     | RiskAgent | ⚠️  SPY: No open position in SPY to sell.
+2026-04-27 11:33:10 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:33:10 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:33:10 | INFO     | RiskAgent | ✅ APPROVED BUY 2x SPY @ $50.00 | SL=$48.5 TP=$53.0 | risk=$3.00
+2026-04-27 11:33:10 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:33:10 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:33:10 | INFO     | RiskAgent | ✅ APPROVED BUY 1x SPY @ $100.00 | SL=$97.0 TP=$106.0 | risk=$3.00
+2026-04-27 11:33:10 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:33:10 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:33:10 | INFO     | RiskAgent | ✅ APPROVED BUY 1x SPY @ $100.00 | SL=$97.0 TP=$106.0 | risk=$3.00
+2026-04-27 11:33:10 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:33:10 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:33:10 | INFO     | RiskAgent | ✅ APPROVED BUY 1x SPY @ $100.00 | SL=$97.0 TP=$106.0 | risk=$3.00
+2026-04-27 11:33:10 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:33:10 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:33:10 | INFO     | RiskAgent | ⚠️  NEW: Max open positions (5) reached — cannot add NEW.
+2026-04-27 11:33:10 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:33:10 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:33:10 | INFO     | RiskAgent | ⚠️  SPY: Already holding SPY — no pyramid buying.
+2026-04-27 11:33:10 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:33:10 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:33:10 | INFO     | RiskAgent | ✅ APPROVED BUY 2x SPY @ $50.00 | SL=$48.5 TP=$53.0 | risk=$3.00
+2026-04-27 11:33:10 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:33:10 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:33:10 | WARNING  | RiskAgent | 🛑 SPY: Daily loss limit hit: $25.00 ≥ $20.00 (2.0% of capital). All trading halted for today.
+2026-04-27 11:33:10 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:33:10 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:33:10 | INFO     | RiskAgent | ✅ APPROVED BUY 1x SPY @ $100.00 | SL=$97.0 TP=$106.0 | risk=$3.00
+2026-04-27 11:33:10 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:33:10 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:33:10 | WARNING  | RiskAgent | ⚠️  SPY: Capital too low for SPY @ $500.00 (max_position=$1.00).
+2026-04-27 11:33:10 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:33:10 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:33:10 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:33:10 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:33:10 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:33:10 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:33:10 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:33:10 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:33:10 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:33:10 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:33:10 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:33:10 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:33:10 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:33:10 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:33:10 | INFO     | RiskAgent | ✅ APPROVED BUY 2x SPY @ $50.00 | SL=$48.5 TP=$53.0 | risk=$3.00
+2026-04-27 11:33:10 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:33:10 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:33:10 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:33:10 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:33:10 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:33:10 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:33:10 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:33:10 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:33:10 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:33:10 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:33:10 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:33:10 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:33:10 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:33:10 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:33:10 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:33:10 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:33:10 | INFO     | RiskAgent | ⚠️  QQQ: No open position in QQQ to sell.
+2026-04-27 11:33:10 | INFO     | RiskAgent | ⚠️  AAPL: No open position in AAPL to sell.
+2026-04-27 11:33:10 | INFO     | RiskAgent | ⚠️  NVDA: No open position in NVDA to sell.
+2026-04-27 11:33:10 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:33:10 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:33:10 | INFO     | RiskAgent | ⚠️  QQQ: No open position in QQQ to sell.
+2026-04-27 11:33:10 | INFO     | RiskAgent | ⚠️  AAPL: No open position in AAPL to sell.
+2026-04-27 11:33:10 | INFO     | RiskAgent | ⚠️  NVDA: No open position in NVDA to sell.
+2026-04-27 11:33:10 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:33:10 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:33:10 | INFO     | RiskAgent | ⚠️  QQQ: No open position in QQQ to sell.
+2026-04-27 11:33:10 | INFO     | RiskAgent | ⚠️  AAPL: No open position in AAPL to sell.
+2026-04-27 11:33:10 | INFO     | RiskAgent | ⚠️  NVDA: No open position in NVDA to sell.
+2026-04-27 11:33:10 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:33:10 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:33:10 | INFO     | RiskAgent | ⚠️  QQQ: No open position in QQQ to sell.
+2026-04-27 11:33:10 | INFO     | RiskAgent | ⚠️  AAPL: No open position in AAPL to sell.
+2026-04-27 11:33:10 | INFO     | RiskAgent | ⚠️  NVDA: No open position in NVDA to sell.
+2026-04-27 11:33:10 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:33:10 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:33:10 | INFO     | RiskAgent | ⚠️  QQQ: No open position in QQQ to sell.
+2026-04-27 11:33:10 | INFO     | RiskAgent | ⚠️  AAPL: No open position in AAPL to sell.
+2026-04-27 11:33:10 | INFO     | RiskAgent | ⚠️  NVDA: No open position in NVDA to sell.
+2026-04-27 11:33:10 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:33:10 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:33:10 | INFO     | RiskAgent | ⚠️  QQQ: No open position in QQQ to sell.
+2026-04-27 11:33:10 | INFO     | RiskAgent | ⚠️  AAPL: No open position in AAPL to sell.
+2026-04-27 11:33:10 | INFO     | RiskAgent | ⚠️  NVDA: No open position in NVDA to sell.
+2026-04-27 11:33:10 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:33:10 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:33:10 | INFO     | RiskAgent | ⚠️  QQQ: No open position in QQQ to sell.
+2026-04-27 11:33:10 | INFO     | RiskAgent | ⚠️  AAPL: No open position in AAPL to sell.
+2026-04-27 11:33:10 | INFO     | RiskAgent | ⚠️  NVDA: No open position in NVDA to sell.
+2026-04-27 11:33:10 | INFO     | RiskAgent | ⚠️  QQQ: No open position in QQQ to sell.
+2026-04-27 11:33:10 | INFO     | RiskAgent | ⚠️  AAPL: No open position in AAPL to sell.
+2026-04-27 11:33:10 | INFO     | RiskAgent | ⚠️  NVDA: No open position in NVDA to sell.
+2026-04-27 11:33:10 | INFO     | RiskAgent | ⚠️  QQQ: No open position in QQQ to sell.
+2026-04-27 11:33:10 | INFO     | RiskAgent | ⚠️  AAPL: No open position in AAPL to sell.
+2026-04-27 11:33:10 | INFO     | RiskAgent | ⚠️  NVDA: No open position in NVDA to sell.
+2026-04-27 11:33:10 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:33:10 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:33:11 | INFO     | RiskAgent | ⚠️  QQQ: No open position in QQQ to sell.
+2026-04-27 11:33:11 | INFO     | RiskAgent | ⚠️  AAPL: No open position in AAPL to sell.
+2026-04-27 11:33:11 | INFO     | RiskAgent | ⚠️  NVDA: No open position in NVDA to sell.
+2026-04-27 11:33:11 | INFO     | RiskAgent | ⚠️  QQQ: No open position in QQQ to sell.
+2026-04-27 11:33:11 | INFO     | RiskAgent | ⚠️  AAPL: No open position in AAPL to sell.
+2026-04-27 11:33:11 | INFO     | RiskAgent | ⚠️  NVDA: No open position in NVDA to sell.
+2026-04-27 11:33:11 | INFO     | RiskAgent | RiskAgent initialised.
+2026-04-27 11:33:11 | INFO     | RiskAgent |   Limits → max_pos=5 | stop=3% | take-profit=6% | min_conf=0.55
+2026-04-27 11:33:11 | INFO     | RiskAgent | ⚠️  QQQ: No open position in QQQ to sell.
+2026-04-27 11:33:11 | INFO     | RiskAgent | ⚠️  AAPL: No open position in AAPL to sell.
+2026-04-27 11:33:11 | INFO     | RiskAgent | ⚠️  NVDA: No open position in NVDA to sell.
+2026-04-27 11:33:12 | INFO     | RiskAgent | ⚠️  QQQ: No open position in QQQ to sell.
+2026-04-27 11:33:12 | INFO     | RiskAgent | ⚠️  AAPL: No open position in AAPL to sell.
+2026-04-27 11:33:12 | INFO     | RiskAgent | ⚠️  NVDA: No open position in NVDA to sell.
+2026-04-27 11:33:13 | INFO     | RiskAgent | ⚠️  QQQ: No open position in QQQ to sell.
+2026-04-27 11:33:13 | INFO     | RiskAgent | ⚠️  AAPL: No open position in AAPL to sell.
+2026-04-27 11:33:13 | INFO     | RiskAgent | ⚠️  NVDA: No open position in NVDA to sell.

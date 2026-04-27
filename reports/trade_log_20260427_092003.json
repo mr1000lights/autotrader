@@ -1,0 +1,666 @@
+[
+  {
+    "ts": "2026-04-27T09:20:03.587735",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "SPY",
+    "detail": "BUY signal",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.588823",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "QQQ",
+    "detail": "Approved",
+    "value": 10.0
+  },
+  {
+    "ts": "2026-04-27T09:20:03.592350",
+    "agent": "Test",
+    "event_type": "INFO",
+    "symbol": "SPY",
+    "detail": "test event",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.601508",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "SPY",
+    "detail": "action=HOLD rsi=41.6 conf=0.40 trend=neutral",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.601720",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "QQQ",
+    "detail": "action=HOLD rsi=62.9 conf=0.40 trend=bullish",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.601851",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "AAPL",
+    "detail": "action=HOLD rsi=58.0 conf=0.40 trend=bullish",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.601963",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "MSFT",
+    "detail": "action=HOLD rsi=33.6 conf=0.40 trend=bearish",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.602078",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "NVDA",
+    "detail": "action=HOLD rsi=40.0 conf=0.40 trend=bearish",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.602275",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "SPY",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.602403",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "QQQ",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.602529",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "AAPL",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.602735",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "MSFT",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.602884",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "NVDA",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.611746",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "SPY",
+    "detail": "action=HOLD rsi=41.6 conf=0.40 trend=neutral",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.612037",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "QQQ",
+    "detail": "action=HOLD rsi=62.9 conf=0.40 trend=bullish",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.612200",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "AAPL",
+    "detail": "action=HOLD rsi=58.0 conf=0.40 trend=bullish",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.612353",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "MSFT",
+    "detail": "action=HOLD rsi=33.6 conf=0.40 trend=bearish",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.612503",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "NVDA",
+    "detail": "action=HOLD rsi=40.0 conf=0.40 trend=bearish",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.612991",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "SPY",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.613249",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "QQQ",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.613670",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "AAPL",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.613884",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "MSFT",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.614071",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "NVDA",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.623109",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "SPY",
+    "detail": "action=HOLD rsi=41.6 conf=0.40 trend=neutral",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.623376",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "QQQ",
+    "detail": "action=HOLD rsi=62.9 conf=0.40 trend=bullish",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.623628",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "AAPL",
+    "detail": "action=HOLD rsi=58.0 conf=0.40 trend=bullish",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.623841",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "MSFT",
+    "detail": "action=HOLD rsi=33.6 conf=0.40 trend=bearish",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.624041",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "NVDA",
+    "detail": "action=HOLD rsi=40.0 conf=0.40 trend=bearish",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.624307",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "SPY",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.624522",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "QQQ",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.624736",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "AAPL",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.624940",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "MSFT",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.625152",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "NVDA",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.640241",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "SPY",
+    "detail": "action=HOLD rsi=41.6 conf=0.40 trend=neutral",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.640528",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "QQQ",
+    "detail": "action=HOLD rsi=62.9 conf=0.40 trend=bullish",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.640846",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "AAPL",
+    "detail": "action=HOLD rsi=58.0 conf=0.40 trend=bullish",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.641153",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "MSFT",
+    "detail": "action=HOLD rsi=33.6 conf=0.40 trend=bearish",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.641382",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "NVDA",
+    "detail": "action=HOLD rsi=40.0 conf=0.40 trend=bearish",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.641787",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "SPY",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.642364",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "QQQ",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.642832",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "AAPL",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.643305",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "MSFT",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.643769",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "NVDA",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.652370",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "SPY",
+    "detail": "action=HOLD rsi=41.6 conf=0.40 trend=neutral",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.652960",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "QQQ",
+    "detail": "action=HOLD rsi=62.9 conf=0.40 trend=bullish",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.653612",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "AAPL",
+    "detail": "action=HOLD rsi=58.0 conf=0.40 trend=bullish",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.654101",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "MSFT",
+    "detail": "action=HOLD rsi=33.6 conf=0.40 trend=bearish",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.654570",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "NVDA",
+    "detail": "action=HOLD rsi=40.0 conf=0.40 trend=bearish",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.655187",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "SPY",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.655654",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "QQQ",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.656111",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "AAPL",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.656573",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "MSFT",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.657224",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "NVDA",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.666300",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "SPY",
+    "detail": "action=HOLD rsi=41.6 conf=0.40 trend=neutral",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.666851",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "QQQ",
+    "detail": "action=HOLD rsi=62.9 conf=0.40 trend=bullish",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.667483",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "AAPL",
+    "detail": "action=HOLD rsi=58.0 conf=0.40 trend=bullish",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.668013",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "MSFT",
+    "detail": "action=HOLD rsi=33.6 conf=0.40 trend=bearish",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.668545",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "NVDA",
+    "detail": "action=HOLD rsi=40.0 conf=0.40 trend=bearish",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.669173",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "SPY",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.669672",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "QQQ",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.670152",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "AAPL",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.670602",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "MSFT",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.671070",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "NVDA",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.678792",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "SPY",
+    "detail": "action=HOLD rsi=41.6 conf=0.40 trend=neutral",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.679321",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "QQQ",
+    "detail": "action=HOLD rsi=62.9 conf=0.40 trend=bullish",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.679808",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "AAPL",
+    "detail": "action=HOLD rsi=58.0 conf=0.40 trend=bullish",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.680294",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "MSFT",
+    "detail": "action=HOLD rsi=33.6 conf=0.40 trend=bearish",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.680778",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "NVDA",
+    "detail": "action=HOLD rsi=40.0 conf=0.40 trend=bearish",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.681328",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "SPY",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.681808",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "QQQ",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.682281",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "AAPL",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.682776",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "MSFT",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.683279",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "NVDA",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.690692",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "SPY",
+    "detail": "action=HOLD rsi=41.6 conf=0.40 trend=neutral",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.691293",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "QQQ",
+    "detail": "action=HOLD rsi=62.9 conf=0.40 trend=bullish",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.691826",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "AAPL",
+    "detail": "action=HOLD rsi=58.0 conf=0.40 trend=bullish",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.692399",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "MSFT",
+    "detail": "action=HOLD rsi=33.6 conf=0.40 trend=bearish",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.693184",
+    "agent": "MarketAgent",
+    "event_type": "SIGNAL",
+    "symbol": "NVDA",
+    "detail": "action=HOLD rsi=40.0 conf=0.40 trend=bearish",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.694226",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "SPY",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.695207",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "QQQ",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.696327",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "AAPL",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.697006",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "MSFT",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  },
+  {
+    "ts": "2026-04-27T09:20:03.697448",
+    "agent": "RiskAgent",
+    "event_type": "RISK_CHECK",
+    "symbol": "NVDA",
+    "detail": "\u274c REJECTED \u2014 Signal is HOLD \u2014 no trade needed.",
+    "value": null
+  }
+]
